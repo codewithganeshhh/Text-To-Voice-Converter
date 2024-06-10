@@ -2,7 +2,7 @@
 
 ## About The Project
 
-✨ Introducing Our New Restaurant Website! 🍽️
+✨ Introducing Our New Website! 🍽️
 
 We are thrilled to announce the launch of our newly designed website for text to speech converter
 
